@@ -1,0 +1,11 @@
+{
+  "name": "pinup-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PinUp crit coach: static page plus one serverless function that calls Claude.",
+  "dependencies": {
+    "@anthropic-ai/sdk": "1.6.0"
+  },
+  "engines": { "node": ">=20" }
+}
